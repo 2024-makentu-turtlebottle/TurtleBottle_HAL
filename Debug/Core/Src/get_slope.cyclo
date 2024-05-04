@@ -1,0 +1,8 @@
+../Core/Src/get_slope.c:31:6:clearQueue	1
+../Core/Src/get_slope.c:37:6:isEmpty	1
+../Core/Src/get_slope.c:42:6:enqueue	3
+../Core/Src/get_slope.c:52:7:dequeue	3
+../Core/Src/get_slope.c:64:7:calculateDistanceSquared	2
+../Core/Src/get_slope.c:74:6:bfs	11
+../Core/Src/get_slope.c:115:6:get_edge	6
+../Core/Src/get_slope.c:136:11:get_slope	1
